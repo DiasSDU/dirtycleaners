@@ -11,7 +11,7 @@ Table structure:
 - price(number(20)) NOT NULL - price of the apartment.
 - rooms(number(20)) NOT NULL - number of rooms in apartment.
 - area(float(10,2)) NOT NULL - Total area of apartment.
-- floor(float(10,2)) NOT NULL - Floor where apartment located.
+- floor(float(10,2)) NOT NULL - The apartment floor.
 - Total_floors(float(10,2)) - Total numbers of floors in the building.
 - district(varchar2(255)) - District name where apartment located.
 - street(varchar2(255)) - The street of the apartment.
