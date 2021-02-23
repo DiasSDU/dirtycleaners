@@ -5,7 +5,7 @@ A Xcom(real estate map) is an app that brings you a variety of real estate servi
 ### Our stack technology: JavaFX + OracleSQL
 ###
 ## Dataset
-A little bit about dataset \
+We've look through 100 datasets and we chose the house prices in Nur-sultan(Astana), because the first of all it is about our country and it is very good dataset with much useful columns. <br/>
 Questions:
 * Count the average area for the 3-room apartments located in Алматы district and built between 2005 and 2010.
 * Total number of apartments that located higher than 10th floor and costs more than 20M.
