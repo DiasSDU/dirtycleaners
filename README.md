@@ -32,3 +32,7 @@ Questions:
 * Is it possible this year to save money when buying an apartment
 * What is the price range in a certain area
 * Demand for apartments in the city
+* how many apartments with a price not more than 20,000,000?
+* how many apartments in 2008 that cost more than 30,000,000 and no more than 6 floors?
+* find the largest area where the price is not more than 15,000,000 or not lower than the 11th floor
+* average number of floors of all apartments
