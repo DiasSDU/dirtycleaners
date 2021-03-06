@@ -39,3 +39,4 @@ Questions:
 
 ## E/R diagram
 ![Image alt](https://github.com/DiasSDU/dirtycleaners/blob/main/DirtyCleaners-ER.png)
+[DDL queries](https://github.com/DiasSDU/dirtycleaners/blob/main/dirtycleaners-DDL-queries.sql)
