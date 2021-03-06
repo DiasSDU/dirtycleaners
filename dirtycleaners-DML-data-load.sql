@@ -1,1 +1,0 @@
-COPY House_prices_ASTANA FROM '/path/to/House_prices_ASTANA.csv' WITH CSV HEADER DELIMITER AS ',';
