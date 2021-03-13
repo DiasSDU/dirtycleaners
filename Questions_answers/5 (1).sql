@@ -1,0 +1,2 @@
+/*How many apartments with the area more than 115 and built in 2015 in each district. Show in decreasing order.*/
+select count(*) from HOUSE_PRICES_ASTANA where area>=115 and year=2015 group by district;
