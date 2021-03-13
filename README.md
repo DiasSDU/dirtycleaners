@@ -24,7 +24,7 @@ Questions:
 * Total number of apartments that located higher than 10th floor and costs more than 20M.
 * In which district located the highest building.
 * Difference of average prices of 4-room and 5-room apartments, with floor less than 10, brick type and  built from 2019.
-* How many apartments with the area more than 115 and built in 2015 in each district. Show in decreasing order.
+* How many apartments with the area more than 115 and built in 2015 in each district.
 * Max price of apartments grouping by floor in Esil district with type-monolite, and built before 2010.
 * How to find an apartment in the area you need
 * How to find an apartment in the right price range
