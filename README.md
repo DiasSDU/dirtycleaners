@@ -42,7 +42,7 @@ Questions:
 [DDL queries](https://github.com/DiasSDU/dirtycleaners/blob/main/dirtycleaners-DDL-queries.sql)
 
 ## Phase6
-As we have used javafx desktop application we made an attention to functionality and have poor design. In folder phase6 we attached the photos of how we connected the sql, how the functions of sql work in java, and sample of app working.
+As we have used javafx desktop application we made an attention to functionality and have poor design.Below we attached the photos of how we connected the sql, how the functions of sql work in java, and sample of app working.
 ![Image alt](https://github.com/DiasSDU/dirtycleaners/blob/main/Phase%206/1.jpeg)
 ![Image alt](https://github.com/DiasSDU/dirtycleaners/blob/main/Phase%206/2.jpeg)
 ![Image alt](https://github.com/DiasSDU/dirtycleaners/blob/main/Phase%206/3.png)
