@@ -40,7 +40,6 @@ Questions:
 ## E/R diagram
 ![Image alt](https://github.com/DiasSDU/dirtycleaners/blob/main/DirtyCleaners-ER.png)
 [DDL queries](https://github.com/DiasSDU/dirtycleaners/blob/main/dirtycleaners-DDL-queries.sql)
-![Image alt](https://github.com/DiasSDU/dirtycleaners/blob/main/1.jpeg)
 
 ## Phase6
 As we have used javafx desktop application we made an attention to functionality and have poor design. In folder phase6 we attached the photos of how we connected the sql, how the functions of sql work in java, and sample of app working.
