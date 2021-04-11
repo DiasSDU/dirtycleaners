@@ -52,5 +52,5 @@ As we have only one database we have no joins functions there, but we still gath
 [RA operators](https://github.com/DiasSDU/dirtycleaners/tree/main/RA%20operators)
 
 ##Phase 8
-Today we will be Query Preparation,  Join Order Selection was implement by show result with select, because we have only 1 table for comfortable and also we Calculate True Join Cardinalities,  Estimate Join Cardinalities and Force and Run Join Order Plans
+Today we will create be Query Preparation,  Join Order Selection was implement by show result with select, because we have only 1 table for comfortable and also we Calculate True Join Cardinalities,  Estimate Join Cardinalities and Force and Run Join Order Plans
 
