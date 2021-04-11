@@ -1,0 +1,11 @@
+/*Total number of apartments that located higher than 10th floor and costs more than 20M.*/
+select count(*) from HOUSE_PRICES_ASTANA where floor>10 and price>= 20000000;
+---
+select count(*) from HOUSE_PRICES_ASTANA where floor>10 and price>= 20000000;
+
+select count(*) from HOUSE_PRICES_ASTANA where not floor<=10 and price>= 20000000;
+
+select count(*) from HOUSE_PRICES_ASTANA where floor>10 and not price< 20000000;
+---
+Tuples:6321
+Measure time:0.001981372833251953 seconds

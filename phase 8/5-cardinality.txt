@@ -1,0 +1,13 @@
+/*Max price of apartments grouping by floor in Esil district with type-monolite, and built before 2010.*/
+select max(price) from House_Price_Astana where district = 'Есиль р-н' and type='монолитный дом' and year<2010 group by floor;
+---
+select count(*) from House_Price_Astana where district = 'Есиль р-н' and type='монолитный дом' and year<2010;
+---
+select count(*) from House_Price_Astana where district = 'Есиль р-н' and type='монолитный дом' and year<2010;
+
+select count(*) from House_Price_Astana where district = 'Есиль р-н' and type='монолитный дом' and not year>2010;
+
+select count(*) from House_Price_Astana where district = 'Есиль р-н' and type='монолитный дом' and year>2009 and year<=2011;
+
+Tuples:4322
+Measure time:0.004365628341953 seconds

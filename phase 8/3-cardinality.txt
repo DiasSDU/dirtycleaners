@@ -1,0 +1,12 @@
+/*Difference of average prices of 4-room and 5-room apartments, with floor less than 10, brick type and built from 2019.*/
+select avg(price) from House_prices_astana where (rooms =5 or rooms =4) and floor<10 and type='кирпичный дом' and year>=2019;
+---
+select avg(price) from House_prices_astana where (rooms =5 or rooms =4) and floor<10 and type='кирпичный дом' and year>=2019;
+
+select avg(price) from House_prices_astana where (rooms =5 or rooms =4) and floor<10 and type='кирпичный дом' and not year<2020;
+
+select avg(price) from House_prices_astana where (rooms between 4 and 5) and floor<10 and type='кирпичный дом' and year>=2019;
+
+
+Tuples:2430
+Measure time:0.0092412482411953 seconds
