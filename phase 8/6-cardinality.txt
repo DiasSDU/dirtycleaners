@@ -1,11 +1,11 @@
 /* What is the price range in a certain area*/
-select min(price),max(price) from House_prices_astana district = 'Есиль р-н';
+select min(price),max(price) from House_prices_astana where district = 'Есиль р-н';
 ---
-select count(*) from House_prices_astana district = 'Есиль р-н';
+select count(*) from House_prices_astana where district = 'Есиль р-н';
 
-select count(*) from House_prices_astana district = 'Есиль р-н';
+select count(*) from House_prices_astana where district = 'Есиль р-н';
 
-select count(*) from House_prices_astana district = 'Есиль р-н';
+select count(*) from House_prices_astana where district = 'Есиль р-н';
 ---
 Tuples:9876
 Measure time:0.00122569411953 seconds
