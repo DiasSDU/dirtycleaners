@@ -54,7 +54,7 @@ As we have only one database we have no joins functions there, but we still gath
 ##Phase 8
 Today we will create Query Preparation,  Join Order Selection was implement by show result with select, because we have only 1 table for comfortable and also we Calculate True Join Cardinalities,  Estimate Join Cardinalities and Force and Run Join Order Plans -
 [Phase_8](https://github.com/DiasSDU/dirtycleaners/tree/main/phase%208)
-[Phase_8](https://github.com/DiasSDU/dirtycleaners/tree/main/phase%208)
+
 
 ##Phase9
 We calculated the speed performance of the queries using the java function System.currentTimeMillis and we got
